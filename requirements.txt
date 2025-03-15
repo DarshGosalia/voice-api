@@ -1,0 +1,13 @@
+Flask==2.3.2
+speechrecognition==3.10.0
+librosa==0.10.1
+numpy==1.24.3
+assemblyai==0.26.0
+soundfile==0.12.1
+noisereduce==3.0.0
+torchaudio==2.0.2
+torch==2.0.1
+fuzzywuzzy==0.18.0
+speechbrain==0.5.15
+werkzeug==2.3.6
+gunicorn==21.2.0
